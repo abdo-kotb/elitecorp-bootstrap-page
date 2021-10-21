@@ -143,8 +143,6 @@ p {
   transform: translateY(-50%);
   bottom: unset;
   width: 100%;
-  text-align: left;
-  padding: 0;
 }
 
 .carousel-caption h1 {
