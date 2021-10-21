@@ -46,6 +46,7 @@ p {
 
 .scroll {
   position: fixed;
+  right: -100px;
   bottom: 15px;
   width: 48px;
   height: 48px;
